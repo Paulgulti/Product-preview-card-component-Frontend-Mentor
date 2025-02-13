@@ -2,8 +2,8 @@
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Link](https://www.frontendmentor.io/solutions/responsive-product-preview-card-component-IxDt8uL3CV)
+- Live Site URL: [Link](https://product-preview-card-component-frontend-mentor-virid.vercel.app/)
 
 ## My process
 
